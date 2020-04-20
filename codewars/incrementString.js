@@ -1,4 +1,4 @@
-//https://www.codewars.com/kata/54a91a4883a7de5d7800009c/javascript
+// https://www.codewars.com/kata/54a91a4883a7de5d7800009c/javascript
 
 function incrementString(strng) {
   const strArray = strng.match(/(\D*)(0*)([1-9]*)/);
